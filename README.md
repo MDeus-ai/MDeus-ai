@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <em>Muhumuza Deus</em></h1>
+<h1 align="center"><em>Hi 👋, I'mMuhumuza Deus</em></h1>
 <h2 align="center"><em>A self-taught data scientist with strong interests in ML/DL</em></h2>
 
 - 🔭 I’m currently working on [PlantVision](https://github.com/MDeus-ai/PlantVision)  
