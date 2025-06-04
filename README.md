@@ -26,14 +26,12 @@
 <a href="https://www.kaggle.com/muhumuzadeusai"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo" /></a>
 <a href="https://www.youtube.com/@deusML"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" /></a>
 </div>
-
-- 🔭 I’m currently working on [PlantVision](https://github.com/MDeus-ai/PlantVision)  
-- 👯 I’m looking to collaborate on **Machine learning projects**  
-- 👨‍💻 All of my projects are available at [https://muhumuzadeus.netlify.app/projects](https://muhumuzadeus.netlify.app/projects)  
-- 📝 I regularly write articles on [https://muhumuzadeus.netlify.app/blog](https://muhumuzadeus.netlify.app/blog)  
-- 📫 How to reach me **muhumuzadeus7@gmail.com**  
-- ⚡ Fun fact **I love playing video games, physics, and space**  
-
+  
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝙿𝚕𝚊𝚗𝚝𝚅𝚒𝚜𝚒𝚘𝚗](https://github.com/MDeus-ai/PlantVision)
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜**
+- 👨‍💻 𝙰𝚕𝚕 𝚘𝚏 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚛𝚎 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚊𝚝 [𝚑𝚝𝚝𝚙𝚜://𝚖𝚞𝚑𝚞𝚖𝚞𝚣𝚊𝚍𝚎𝚞𝚜.𝚗𝚎𝚝𝚕𝚒𝚏𝚢.𝚊𝚙𝚙/𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜](https://muhumuzadeus.netlify.app/projects)
+- 📝 𝙸 𝚛𝚎𝚐𝚞𝚕𝚊𝚛𝚕𝚢 𝚠𝚛𝚒𝚝𝚎 𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 [𝚑𝚝𝚝𝚙𝚜://𝚖𝚞𝚑𝚞𝚖𝚞𝚣𝚊𝚍𝚎𝚞𝚜.𝚗𝚎𝚝𝚕𝚒𝚏𝚢.𝚊𝚙𝚙/𝚋𝚕𝚘𝚐](https://muhumuzadeus.netlify.app/blog)
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 𝙸 𝚕𝚘𝚟𝚎 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 **𝚟𝚒𝚍𝚎𝚘 𝚐𝚊𝚖𝚎𝚜, 𝚙𝚑𝚢𝚜𝚒𝚌𝚜, 𝚊𝚗𝚍 𝚜𝚙𝚊𝚌𝚎**
 
 <!-- All three GitHub-stats images in one centered row -->
 <div align="center">
