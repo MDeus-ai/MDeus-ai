@@ -51,15 +51,15 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://twitter.com/muhumuzadeus5" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhumuzadeus5" width="50" height="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhumuzadeus5" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhumuza-deus-mugenyi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" />
+  <a href="https://www.linkedin.com/in/muhumuza-deus-mugenyi-81a4a7268/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/muhumuzadeusai" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="50" height="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@deusml" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="50" height="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
   </a>
 </p>
