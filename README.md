@@ -1,5 +1,7 @@
-<h1 align="center"><em>Hi 👋, I'm 𝓜𝓾𝓱𝓾𝓶𝓾𝔃𝓪 𝓓𝓮𝓾𝓼</em></h1>
-<h2 align="center"><em>A self-taught data scientist with strong interests in 𝓜𝓛/𝓓𝓛</em></h2>
+<p align="center">
+  <img src="github logo/logo.png" alt="myname" style="max-height: 450px; width: 100%; height: auto;" />
+</p>
+<h2 align="center">𝙰 𝚜𝚎𝚕𝚏-𝚝𝚊𝚞𝚐𝚑𝚝 𝚍𝚊𝚝𝚊 𝚜𝚌𝚒𝚎𝚗𝚝𝚒𝚜𝚝 𝚠𝚒𝚝𝚑 𝚜𝚝𝚛𝚘𝚗𝚐 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜 𝚒𝚗 𝙼𝙻/𝙳𝙻</h2>
 
 
 <!-- “Languages and Tools” section first -->
