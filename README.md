@@ -27,11 +27,10 @@
 <a href="https://www.youtube.com/@deusML"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" /></a>
 </div>
   
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝙿𝚕𝚊𝚗𝚝𝚅𝚒𝚜𝚒𝚘𝚗](https://github.com/MDeus-ai/PlantVision)
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜**
-- 👨‍💻 𝙰𝚕𝚕 𝚘𝚏 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚛𝚎 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 on my [projects page](https://muhumuzadeus.netlify.app/projects)
-- 📝 𝙸 𝚛𝚎𝚐𝚞𝚕𝚊𝚛𝚕𝚢 𝚠𝚛𝚒𝚝𝚎 𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 [my blog page](https://muhumuzadeus.netlify.app/blog)
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 𝙸 𝚕𝚘𝚟𝚎 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 **𝚟𝚒𝚍𝚎𝚘 𝚐𝚊𝚖𝚎𝚜, 𝚙𝚑𝚢𝚜𝚒𝚌𝚜, 𝚊𝚗𝚍 𝚜𝚙𝚊𝚌𝚎**
+- 🔭 I am currently working on [PlantVision](https://github.com/MDeus-ai/PlantVision)
+- 👯 I'am looking to collaborate on **Machine Learning Projects**
+- 👨‍💻 All my projects are available on [projects page](https://muhumuzadeus.netlify.app/projects)
+- 📝 I regulary write articles on [my blog page](https://muhumuzadeus.netlify.app/blog)
 
 <!-- All three GitHub-stats images in one centered row -->
 <div align="center">
